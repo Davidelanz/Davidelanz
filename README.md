@@ -1,16 +1,19 @@
-### Hi there 👋
+Robotics Engineer 🤖 and Computational Cognition enthusiast.
+I played with neural networks and the art world.
+I am more a full-stack developer, but I still play a lot with art.
 
-<!--
-**Davidelanz/Davidelanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quantum congition modeling 
 
-Here are some ideas to get you started:
+(...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Robotics
+
+(...)
+
+## Artificial Intelligence
+
+(...)
+
+## Webdevelopment
+
+(...)
