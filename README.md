@@ -16,7 +16,7 @@ Legend:
 
 <br>
 
-## Quantum congition modeling 
+## Quantum Cognition Modeling 
 
 | Repository                                                              | Status |
 | ----------------------------------------------------------------------- | ------ |
