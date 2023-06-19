@@ -8,6 +8,10 @@ Nowadays I am more a full-stack developer, but I still play a lot with art.
 
 <br>
 
+[🗄 gist.github.com/Davidelanz](https://gist.github.com/Davidelanz)
+
+<br>
+
 Legend:
 - ✅: maintained
 - 🚧: under maintenance, might not work
@@ -16,14 +20,14 @@ Legend:
 
 <br>
 
-## Quantum Cognition Modeling 
+### Quantum Cognition Modeling 
 
 | Repository                                                              | Status |
 | ----------------------------------------------------------------------- | ------ |
 | [Davidelanz/quantum-robot](https://github.com/Davidelanz/quantum-robot) | ✅      |
 
 
-## Robotics
+### Robotics
 
 | Repository                                                                                | Status |
 | ----------------------------------------------------------------------------------------- | ------ |
@@ -34,7 +38,7 @@ Legend:
 | [Davidelanz/soccer-match-robot](https://github.com/Davidelanz/soccer-match-robot)         | 🛑      |
 
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 | Repository                                                                                                        | Status |
 | ----------------------------------------------------------------------------------------------------------------- | ------ |
@@ -50,7 +54,7 @@ Legend:
 | [Davidelanz/text-extractor-api](https://github.com/Davidelanz/text-extractor-api)                                 | 🛑      |
 
 
-## Software development
+### Software development
 
 | Repository                                                                              | Status |
 | --------------------------------------------------------------------------------------- | ------ |
