@@ -28,6 +28,7 @@ Legend:
 | Repository                                                                                | Status |
 | ----------------------------------------------------------------------------------------- | ------ |
 | [Davidelanz/ros1_gazebo_docker](https://github.com/Davidelanz/ros1_gazebo_docker)         | ✅📄     |
+| [Davidelanz/ros_tiago_docker](https://github.com/Davidelanz/ros_tiago_docker)             | ✅📄     |
 | [Davidelanz/localization-algorithm](https://github.com/Davidelanz/localization-algorithm) | 🛑      |
 | [Davidelanz/swarm-exploration](https://github.com/Davidelanz/swarm-exploration)           | 🛑      |
 | [Davidelanz/soccer-match-robot](https://github.com/Davidelanz/soccer-match-robot)         | 🛑      |
