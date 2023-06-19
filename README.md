@@ -53,6 +53,8 @@ Legend:
 
 | Repository                                                                            | Status |
 | ------------------------------------------------------------------------------------- | ------ |
+| [EIKONproject/paginator](https://github.com/EIKONproject/paginator)                   | ✅      |
+| [EIKONproject/apache_dev_server](https://github.com/EIKONproject/apache_dev_server)   | ✅📄     |
 | [Davidelanz/wordpress-docker](https://github.com/Davidelanz/wordpress-docker)         | 🚧📄     |
 | [Davidelanz/hugo-bootstrap-5](https://github.com/Davidelanz/hugo-bootstrap-5)         | 🚧📄     |
 | [Davidelanz/jekyll-template](https://github.com/Davidelanz/jekyll-template)           | 🚧📄     |
