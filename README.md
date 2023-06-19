@@ -52,14 +52,15 @@ Legend:
 
 ## Software development
 
-| Repository                                                                            | Status |
-| ------------------------------------------------------------------------------------- | ------ |
-| [EIKONproject/paginator](https://github.com/EIKONproject/paginator)                   | ✅      |
-| [EIKONproject/apache_dev_server](https://github.com/EIKONproject/apache_dev_server)   | ✅📄     |
-| [Davidelanz/wordpress-docker](https://github.com/Davidelanz/wordpress-docker)         | 🚧📄     |
-| [Davidelanz/hugo-bootstrap-5](https://github.com/Davidelanz/hugo-bootstrap-5)         | 🚧📄     |
-| [Davidelanz/jekyll-template](https://github.com/Davidelanz/jekyll-template)           | 🚧📄     |
-| [Davidelanz/swagger-api-template](https://github.com/Davidelanz/swagger-api-template) | 🛑📄     |
-| [Davidelanz/jupyter-docker](https://github.com/Davidelanz/jupyter-docker)             | 🛑📄     |
+| Repository                                                                              | Status |
+| --------------------------------------------------------------------------------------- | ------ |
+| [EIKONproject/paginator](https://github.com/EIKONproject/paginator)                     | ✅    |
+| [EIKONproject/apache_dev_server](https://github.com/EIKONproject/apache_dev_server)     | ✅📄  |
+| [Davidelanz/python_poetry_package](https://github.com/Davidelanz/python_poetry_package) | ✅📄  |
+| [Davidelanz/wordpress-docker](https://github.com/Davidelanz/wordpress-docker)           | 🚧📄  |
+| [Davidelanz/hugo-bootstrap-5](https://github.com/Davidelanz/hugo-bootstrap-5)           | 🚧📄  |
+| [Davidelanz/jekyll-template](https://github.com/Davidelanz/jekyll-template)             | 🚧📄  |
+| [Davidelanz/swagger-api-template](https://github.com/Davidelanz/swagger-api-template)   | 🛑📄  |
+| [Davidelanz/jupyter-docker](https://github.com/Davidelanz/jupyter-docker)               | 🛑📄  |
 
 
