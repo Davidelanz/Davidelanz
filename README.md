@@ -4,13 +4,29 @@ Nowadays I am more a full-stack developer, but I still play a lot with art.
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/davidelanz?template=classic&base.activity=0&base.community=0&base.repositories=0&languages=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook%2C%20CMake&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&gists=false&config.timezone=Europe%2FParis)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=davidelanz&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidelanz&theme=transparent&show_icons=true&layout=compact&langs_count=9&hide=Jupyter%20Notebook" />
+</a>
+<br>
+
 
 <br>
 
 [🗄 gist.github.com/Davidelanz](https://gist.github.com/Davidelanz)
 
 <br>
+
+StackOverflow: <br><br>
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13975476&layout=compact&theme=dark)](https://stackoverflow.com/users/13975476/)
+
+
+<br>
+
 
 Legend:
 - ✅: maintained
