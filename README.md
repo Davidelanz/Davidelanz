@@ -10,7 +10,7 @@ Nowadays I am more a full-stack developer, but I still play a lot with art.
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidelanz&theme=transparent&show_icons=true&layout=compact&langs_count=9&hide=Jupyter%20Notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidelanz&theme=transparent&show_icons=true&layout=compact&langs_count=8&hide=Jupyter%20Notebook,C,CSS,Makefile" />
 </a>
 <br>
 
